@@ -1,0 +1,59 @@
+html {
+    font-size: 16px;
+}
+
+.container {
+    width: 100%;
+    height: auto;
+}
+
+#heading {
+    text-align: center;
+}
+
+#main {
+    text-align: center;
+    padding: 50px 50px;
+}
+
+
+#weight {
+    font-size: 1em;
+    width: 100px;
+}
+
+#results {
+    font-size: 1.5em;
+    margin-bottom: 50px;
+}
+
+button {
+    width: 150px;
+    height: 50px;
+    color: white;
+    background-color: mediumblue;
+    font-size: 1.5em;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+#disclaimer p{
+    font-size: 0.75em;
+    text-align: center;
+}
+
+img {
+    padding: 50px 50px;
+}
